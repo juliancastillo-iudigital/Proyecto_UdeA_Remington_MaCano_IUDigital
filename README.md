@@ -30,7 +30,7 @@
 <hr size=1 noshade color="black">
 </div>
 
-#**Resumen del Proyecto**
+# **Resumen del Proyecto**
 
 Medellín cuenta con una importante demanda de alimentos frescos, pero al mismo tiempo el 70% de su territorio es rural, donde no sólo ofrece servicios ambientales, sino que produce alrededor de 29.000 toneladas/año de alimentos, lo que lo convierte en una excelente alternativa para proveer alimentos “0 kilómetros” a la ciudad. Esta propuesta de investigación pretende mediante la combinación de dos herramientas, hacer una evaluación de las políticas públicas asociadas al fortalecimiento de las unidades productivas agrícola de los corregimientos de Medellín. Por tanto, se realizará una evaluación de percepción junto con un modelo de simulación para evaluar diversas políticas identificadas en el análisis exploratorio, con el ánimo de realizar sugerencias de política pública al municipio, de acuerdo a la percepción de la población, la producción y el cambio en la tenencia de la tierra dedicada a la actividad agrícola. Dada la metodología propuesta, la selección del paradigma de simulación se hará posterior a la revisión del estado del arte. Este proyecto se enmarca en la línea de investigación de poder y organización, donde se precisa la importancia de estas unidades agrícolas en la estructura productiva de la ciudad.
 
